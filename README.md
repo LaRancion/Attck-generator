@@ -18,3 +18,4 @@ features:
 - add metadata and custom info
 - select a platform (linux,macos,windows)
 - name and customizations
+- add data sources as filters
